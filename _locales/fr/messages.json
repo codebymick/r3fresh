@@ -1,0 +1,133 @@
+{
+    "name": {
+        "message": "r3fresh"
+    },
+    "short_name": {
+        "message": "r3fresh"
+    },
+    "description": {
+        "message": "r3fresh recharge des ressources CSS, HTML ou JavaScript de site Web dès qu'elles ont changées sur le serveur."
+    },
+    "browser_action": {
+        "message": "Activer r3fresh sur cette page"
+    },
+    "@protocol_not_supported": {
+        "message": "Désolé, le protocole utilisé sur cette page n'est pas pris en charge."
+    },
+    "@file_protocol_needs_enabling": {
+        "message": "Désolé, le protocole file:// doit être habilité. Veuillez cocher la case « Autoriser l'accès aux URL du fichier » pour r3fresh sur la page de gestion des extensions (chrome://extensions/)."
+    },
+    "@live": {
+        "message": "Affichage en direct"
+    },
+    "@disable_on_this_page": {
+        "message": "Désactiver r3fresh sur cette page"
+    },
+    "@disable_on_this_host": {
+        "message": "Désactiver r3fresh pour cet hôte"
+    },
+    "@enable_on_this_page": {
+        "message": "Activer r3fresh sur cette page"
+    },
+    "@enable_on_this_host": {
+        "message": "Activer r3fresh pour cet hôte"
+    },
+    "@options_title": {
+        "message": "r3fresh : Options"
+    },
+    "@options_h2_url_list": {
+        "message": "r3fresh s'exécutera sur :"
+    },
+    "@options_url_list_empty": {
+        "message": "Aucune URL n'est actuellement affichée en direct, en cliquant sur l'icône à côté de l'omnibar, la page sera ffichée en direct :)"
+    },
+    "@options_clear_all": {
+        "message": "Tout effacer"
+    },
+    "@options_h2_should_monitor": {
+        "message": "r3fresh contrôlera :"
+    },
+    "@language_css": {
+        "message": "CSS"
+    },
+    "@language_javascript": {
+        "message": "JavaScript"
+    },
+    "@language_html": {
+        "message": "HTML"
+    },
+    "@options_refresh_links": {
+        "message": "Liens r3fresh"
+    },
+    "@options_refresh_links_note": {
+        "message": "Contrôle des fichiers ad hoc à travers :"
+    },
+    "@options_h2_refresh_rate": {
+        "message": "Paramètres d'interrogation :"
+    },
+    "@options_refresh_rate": {
+        "message": "Sondage des changements tous les :"
+    },
+    "@options_refresh_rate_milliseconds": {
+        "message": "ms"
+    },
+    "@options_refresh_rate_note": {
+        "message": "En utilisant localhost, vous pouvez configurer à moins de 175 ms mais travailler sur un serveur de production en direct devrait être de 250 ms ou plus."
+    },
+    "@options_h2_advanced_settings": {
+        "message": "Réglages avancés :"
+    },
+    "@options_entire_hosts": {
+        "message": "Exécuter r3fresh sur l'ensemble des domaines"
+    },
+    "@options_skip_external": {
+        "message": "Ignorer les ressources externes telles que googleapis.com ou CDNs"
+    },
+    "@options_ignore_anchors": {
+        "message": "Ignorer les ancrages d'URL"
+    },
+    "@options_tidy_html": {
+        "message": "Ignorer les commentaires en HTML"
+    },
+    "@options_ignore_hidden_fields": {
+        "message": "Ignorer les champs masqués en HTML"
+    },
+    "@options_ignore_inline_js": {
+        "message": "Ignorer le JavaScript en ligne"
+    },
+    "@options_persist_scroll_points": {
+        "message": "Tentative de conservation du défilement des positions X/Y"
+    },
+    "@options_h2_notes": {
+        "message": "Remarques :"
+    },
+    "@options_allow_access_to_files": {
+        "message": "Pour utiliser utiliser le protocole file://, assurez-vous d'avoir coché « Autoriser l'accès aux URL de fichier » pour l'extension r3fresh sur la page de gestion des extensions (chrome://extensions/)."
+    },
+    "@options_contribute_and_support": {
+        "message": "Aidez-nous en rapportant les bugs sur GitHub"
+    },
+    "@options_developed_by": {
+        "message": "Développé par :"
+    },
+    "@options_tweet_me": {
+        "message": "Merci beaucous :"
+    },
+    "@options_sell_upsell": {
+        "message": "",
+        "description": ""
+    },
+    "@options_sell_link": {
+        "message": "If you really like r3fresh, please consider installing the paid version.",
+        "description": ""
+    },
+
+    "@options_review_upsell": {
+        "message": "",
+        "description": ""
+    },
+    "@options_review_link": {
+        "message": "If you like r3fresh, please leave a sweet review.",
+        "description": ""
+    }
+}

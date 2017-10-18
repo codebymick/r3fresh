@@ -1,0 +1,13 @@
+r3fresh your chrome url without effort. Anytime the source file changes Chrome browser will monitor the change and refresh automatically...
+
+Free version is out there to share the love and keep it open source...
+Paid version is available for those in believe it's good to support a poor and hungry fledging developer....HELP!
+
+Be sure to enable "monitor entire domain" in options...
+
+Features:
+  * Entire domains can be r3freshed
+  * file:// protocol is now supported
+
+It's recommended you use this extension only in a local development environment and not in a production environment.
+

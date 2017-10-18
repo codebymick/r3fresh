@@ -1,0 +1,11 @@
+No worries cobber! r3fresh your chrome url without lifting a finger. Whenever the source file changes your browser will catch the change and refresh...beauty MATE!
+r3fresh chrome extension monitors the source files of your chosen url.  when file chnges are saved at the source file location, chrome browser will update to reflect latest changes - saving your time and your fingerwork!
+
+Free version is out there to share the love and paid version is available for those in believe it's good to support a poor and hungry fledging developer....HELP!
+
+Features:
+  * Entire domains can be r3freshed
+  * file:// protocol is now supported
+
+It's recommended you use this extension only in a local development environment and not in a production environment.
+

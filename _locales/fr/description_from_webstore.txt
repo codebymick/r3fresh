@@ -1,0 +1,14 @@
+R3fresh your chrome url sans effort. Chaque fois que le fichier source change, le navigateur Chrome surveillera la modification et l'actualisation automatiquement ...
+
+La version gratuite est là pour partager l'amour et le garder open source ...
+La version payante est disponible pour ceux qui pensent qu'il est bon de soutenir un développeur pauvre et affamé ... AIDE!
+
+Assurez-vous d'activer "monitoring entore domain" dans les options ...
+
+Caractéristiques :
+  * L'ensemble des domaines peut être réalisé en direct
+  * Le protocole file:// est désormais pris en charge
+
+Il est recommandé d'utiliser cette extension uniquement dans un environnement de développement local et non pas dans un environnement de production.
+
+Toutes les futures étapes et les incidents en cours peuvent être trouvés sur  

@@ -1,0 +1,203 @@
+{
+    "name": {
+        "message": "r3fresh",
+        "description": "Extension name"
+    },
+    "short_name": {
+        "message": "r3fresh",
+        "description": "Short Extension name"
+    },
+    "description": {
+        "message": "r3fresh your chrome url without touching a button.",
+        "description": "Extension description"
+    },
+    "browser_action": {
+        "message": "Enable r3fresh on this page",
+        "description": "The default tooltip on the icon"
+    },
+
+
+    "@protocol_not_supported": {
+        "message": "Sorry, the protocol used on this page is not supported.",
+        "description": "When the protocol used is not support on a URL."
+    },
+    "@file_protocol_needs_enabling": {
+        "message": "Sorry, the file:// protocol needs enabling. Please check the \"Allow access to file URLs\" for r3fresh on the extensions page (chrome://extensions/).",
+        "description": "When the protocol file:// needs enabling"
+    },
+
+    "@live": {
+        "message": "ON",
+        "description": "The badge text for a live page"
+    },
+    "@disable_on_this_page": {
+        "message": "Disable r3fresh on this page",
+        "description": "Icon hover text to disable r3fresh"
+    },
+    "@disable_on_this_host": {
+        "message": "Disable r3fresh for this host",
+        "description": "Icon hover text to disable r3fresh for entire host"
+    },
+    "@enable_on_this_page": {
+        "message": "Enable r3fresh on this page",
+        "description": "Icon hover text to enable r3fresh"
+    },
+    "@enable_on_this_host": {
+        "message": "Enable r3fresh for this host",
+        "description": "Icon hover text to enable r3fresh for entire host"
+    },
+
+    "@options_title": {
+        "message": "r3fresh - Options",
+        "description": "r3fresh Title tag"
+    },
+
+    "@options_h2_url_list": {
+        "message": "r3fresh will run on:",
+        "description": "English: r3fresh will run on"
+    },
+    "@options_url_list_empty": {
+        "message": "No URLs are currently live, clicking the icon next to the address bar will make a page live :)",
+        "description": "Fallback message for when extension has not been activated on any pages yet"
+    },
+    "@options_clear_all": {
+        "message": "Clear All",
+        "description": "Options Page: label for button that clears all active URLs"
+    },
+
+    "@options_h2_should_monitor": {
+        "message": "r3fresh should monitor:",
+        "description": "English: r3fresh should monitor"
+    },
+    "@language_css": {
+        "message": "CSS",
+        "description": "English: CSS"
+    },
+    "@language_javascript": {
+        "message": "JavaScript",
+        "description": "English: JavaScript"
+    },
+    "@language_html": {
+        "message": "HTML",
+        "description": "English: HTML"
+    },
+    "@monitor_img": {
+        "message": "Images (Experimental)",
+        "description": "English: Images (Experimental)"
+    },
+    "@options_refresh_links": {
+        "message": "r3fresh Links",
+        "description": "English: r3fresh Links"
+    },
+    "@options_refresh_links_note": {
+        "message": "Monitor files specified using:",
+        "description": "English: Monitor files specified using:"
+    },
+
+    "@options_h2_refresh_rate": {
+        "message": "Polling Settings:",
+        "description": "English: Polling Settings"
+    },
+    "@options_refresh_rate": {
+        "message": "Poll for updates every:",
+        "description": "English: Poll for updates every:"
+    },
+    "@options_refresh_rate_milliseconds": {
+        "message": "ms",
+        "description": "abbreviated version of milliseconds"
+    },
+    "@options_refresh_rate_note": {
+        "message": "Working on a live production server should be 250ms or higher.",
+        "description": "English: Working on a live production server should be 250ms or higher."
+    },
+
+    "@options_h2_reload_settings": {
+        "message": "Reload Settings:",
+        "description": "English: Reload Settings"
+    },
+    "@options_persist_scroll_points": {
+        "message": "Attempt to persist scroll X/Y positions",
+        "description": "English: Attempt to persist scroll X/Y positions"
+    },
+    "@options_refresh_delay": {
+        "message": "Minimum delay before reloading:",
+        "description": "English: "
+    },
+    "@options_refresh_delay_milliseconds": {
+        "message": "ms",
+        "description": "ms"
+    },
+    "@options_refresh_delay_note": {
+        "message": " ",
+        "description": "English: "
+    },
+
+    "@options_h2_advanced_settings": {
+        "message": "Advanced Settings:",
+        "description": "English: Advanced Settings"
+    },
+    "@options_entire_hosts": {
+        "message": "Run r3fresh on entire domain",
+        "description": "English: Run r3fresh on entire domain"
+    },
+    "@options_skip_external": {
+        "message": "Skip googleapis.com or CDNs",
+        "description": "English: Skip googleapis.com or CDNs"
+    },
+    "@options_ignore_anchors": {
+        "message": "Ignore URL anchors",
+        "description": "Ignore everything after # in a URL."
+    },
+    "@options_tidy_html": {
+        "message": "Ignore comments in HTML",
+        "description": "English: Ignore comments in HTML"
+    },
+    "@options_ignore_hidden_fields": {
+        "message": "Ignore hidden fields in HTML",
+        "description": "English: Ignore hidden fields in HTML"
+    },
+    "@options_ignore_inline_js": {
+        "message": "Ignore inline JavaScript",
+        "description": "English: Ignore inline JavaScript"
+    },
+
+    "@options_h2_notes": {
+        "message": "Notes:",
+        "description": "English: Notes"
+    },
+    "@options_allow_access_to_files": {
+        "message": "Make sure you have ticked \"Allow access to file URLs\" for the r3fresh extension.",
+        "description": "Inform user to enable 'Allow access to file URLs' on the extensions page"
+    },
+
+    "@options_sell_upsell": {
+        "message": "",
+        "description": ""
+    },
+    "@options_sell_link": {
+        "message": "If you really like r3fresh, please consider installing the paid version.",
+        "description": ""
+    },
+
+    "@options_review_upsell": {
+        "message": "",
+        "description": ""
+    },
+    "@options_review_link": {
+        "message": "If you like r3fresh, please leave a sweet review.",
+        "description": ""
+    },
+
+    "@options_contribute_and_support": {
+        "message": "Contribute & install via paid version",
+        "description": "English: Contribute & install via paid version"
+    },
+    "@options_developed_by": {
+        "message": "Developed by:",
+        "description": "English: Developed by"
+    }
+    /*"@options_tweet_me": {
+      "message": "Tweet me:",
+      "description": "English: Tweet me"
+    }*/
+}

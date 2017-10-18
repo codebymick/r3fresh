@@ -1,0 +1,14 @@
+R3fresh su url de cromo sin esfuerzo. Cada vez que cambie el archivo de origen, el navegador Chrome supervisará el cambio y se actualizará automáticamente ...
+
+La versión gratuita está ahí para compartir el amor y mantenerlo de código abierto ...
+La versión de pago está disponible para aquellos que creen que es bueno para apoyar a un desarrollador de fledging pobres y hambrientos .... ¡AYUDA!
+
+Asegúrese de habilitar "monitor entore domain" en opciones ...
+
+Características:
+  * Dominios completos se pueden convertir en activos
+  * Ahora es compatible con el protocolo file://
+
+Se recomienda usar esta extensión únicamente en un entorno de desarrollo y no en producción.
+
+Todos los hitos futuros y los problemas actuales se pueden encontrar en  
