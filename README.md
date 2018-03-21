@@ -1,6 +1,7 @@
 # r3fresh
 
-r3fresh is a developer tool which reloads website resources (such as CSS, HTML and JavaScript) as they change on the server, so you are always looking at the most up-to-date version of a web page. It can make developing websites a lot faster, by helping productivity. You can install r3fresh via the [Chrome Web Store](https://chrome.google.com/webstore/detail/r3fresh/kedglhfbgkhggkbcabnggfaafboeckno).
+r3fresh my developer tool which reloads websites (such as CSS, HTML and JavaScript) as they change on the server, so you are always looking at the most up-to-date version of a web page. 
+A bit buggy when using on wordpress sites due to db updates or dynamic content like sliders  Very useful in preliminary dev, particularly in local environment. You can install r3fresh via the [Chrome Web Store](https://chrome.google.com/webstore/detail/r3fresh/kedglhfbgkhggkbcabnggfaafboeckno).
 
 Features:
  * Entire domains can be r3freshed
@@ -10,7 +11,7 @@ It's recommended you use this extension only in a local development environment 
 
 ## Running development version in Chrome
 
-1. Clone this repo to your local machine. 
+1. Clone this repo to your local machine.
 2. Then visit to `chrome://extensions/` in Chrome.
 3. Within the Extension page, check the "Developer Mode" checkbox.
 4. A button with the label "Load unpacked extension" should have appeared, click it.
