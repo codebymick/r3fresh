@@ -11,14 +11,10 @@ It's recommended you use this extension only in a local development environment 
 ## Running development version in Chrome
 
 1. Clone this repo to your local machine. 
-2. Then visit to `chrome://extensions/` in Chrome. 
-3. Within the Extension page, check the "Developer Mode" checkbox. 
-4. A button with the label "Load unpacked extension" should have appeared, click it. 
+2. Then visit to `chrome://extensions/` in Chrome.
+3. Within the Extension page, check the "Developer Mode" checkbox.
+4. A button with the label "Load unpacked extension" should have appeared, click it.
 5. A modal will popup with your local file system, navigate to where you cloned the repo to and click "Select".
-
-## "Price not available" in Chrome Web Store
-
-If you are seeing "Price not available" as the only download option in Chrome Web Store, this is caused by Google not being able to determine your local currency. As a workaround, append `&gl=us` to the URL, for example : https://chrome.google.com/webstore/detail/r3fresh/?hl=en&gl=us
 
 ### Handy scripts for local development
 
@@ -45,13 +41,10 @@ Install npm, then run:
 
 Or drag and drop the files from `/test/index.html` into your browser.
 
-## Roadmap
-
-The upcoming milestones can be found [on the GitHub milestones](https:// codebymick/r3fresh/milestones) page.
 
 ## Footnotes
 
-Contribute on GitHub: https:// codebymick/r3fresh/
+Contribute on GitHub: https://codebymick/r3fresh/
 
 Find it in the Chrome Web Store: https://chrome.google.com/webstore/detail/codebymick/r3fresh/
 
