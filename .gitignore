@@ -49,8 +49,10 @@ header.php
 footer.php
 images/
 img/
+imgs/
 **/images/
 **/img/
+**/imgs/
 *.jpeg
 *.mp4
 *.png
