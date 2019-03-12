@@ -1,7 +1,8 @@
 # r3fresh
 
-r3fresh my developer tool which reloads websites (such as CSS, HTML and JavaScript) as they change on the server, so you are always looking at the most up-to-date version of a web page. 
-A bit buggy when using on wordpress sites due to db updates or dynamic content like sliders  Very useful in preliminary dev, particularly in local environment. You can install r3fresh via the [Chrome Web Store](https://chrome.google.com/webstore/detail/r3fresh/kedglhfbgkhggkbcabnggfaafboeckno).
+developer tool which reloads websites (such as CSS, HTML and JavaScript) as they change on the server, so you are always looking at the most up-to-date version of a web page. 
+A bit buggy when using on wordpress sites due to db updates or dynamic content like sliders.
+Very useful in preliminary dev, esp. in local environment. You can install r3fresh via the [Chrome Web Store](https://chrome.google.com/webstore/detail/r3fresh/kedglhfbgkhggkbcabnggfaafboeckno).
 
 Features:
  * Entire domains can be r3freshed
