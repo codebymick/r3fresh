@@ -45,9 +45,9 @@ Or drag and drop the files from `/test/index.html` into your browser.
 
 ## Footnotes
 
-Contribute on GitHub: https://codebymick/r3fresh/
+Contribute on GitHub: https://github.com/codebymick/r3fresh/
 
-Find it in the Chrome Web Store: https://chrome.google.com/webstore/detail/codebymick/r3fresh/
+Find it in the Chrome Web Store: https://chrome.google.com/webstore/detail/r3fresh/kedglhfbgkhggkbcabnggfaafboeckno
 
 Extension by: codebymick ([@codebymick] / [https://codebymick.com/](https://codebymick.com/)
 
